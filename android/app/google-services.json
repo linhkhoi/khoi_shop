@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "987019738646",
+    "project_id": "khoishop-bdc1b",
+    "storage_bucket": "khoishop-bdc1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987019738646:android:6f053b171a2fc74dbd7f37",
+        "android_client_info": {
+          "package_name": "com.example.khoi_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987019738646-aqg0t5bcu3hdsqu4omf73au1bk78khts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.khoi_shop",
+            "certificate_hash": "3b96823a001688c68100404b7be704e64566e5d9"
+          }
+        },
+        {
+          "client_id": "987019738646-kneoro4j2a51ia07c14dvu7r328jmevm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZCegwxBuOJc9fuODlOUTFJ_P3Tbe6-TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987019738646-kneoro4j2a51ia07c14dvu7r328jmevm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
