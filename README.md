@@ -15,10 +15,10 @@
 
 >Đề tài: **Xây dựng ứng dụng mua sắm trên thiết bị di động**
 
->## Yêu cầu bài tập lớn
+>## Kỹ thuật trong bài tập lớn
 
 - Xây dựng đồ án bằng **Flutter**
-- Có thể sử dụng các API có sẵn: **Google API, Firebase**
+- Sử dụng các API có sẵn: **Google API, Firebase**
 
 
 ## Các chức năng chính trong bài tập lớn
@@ -30,3 +30,7 @@
 -	Đặt hàng sản phẩm.
 -	Thanh toán online qua Stripe.
 -	Xem lại các hoá đơn.
+## Các hình ảnh từ bài tập lớn
+![screenshot1](https://github.com/linhkhoi/khoi_shop/blob/main/assets/Screenshot/Screenshot_1644985252.png)
+![screenshot2](https://github.com/linhkhoi/khoi_shop/blob/main/assets/Screenshot/Screenshot_1644985256.png)
+![screenshot3](https://github.com/linhkhoi/khoi_shop/blob/main/assets/Screenshot/Screenshot_1644985273.png)
